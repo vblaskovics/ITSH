@@ -1,6 +1,6 @@
 # ITSH
 
-## 1. Hello GitHub
+## 1. Hello Main
 
 Ide jön az első fejezet tartalma:
 
