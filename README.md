@@ -9,4 +9,4 @@ Ide jön az első fejezet tartalma:
 - ez új
 - log time
 - lezár
-
+- resolve
