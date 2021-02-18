@@ -10,3 +10,5 @@ Ide jön az első fejezet tartalma:
 - log time
 - lezár
 - resolve
+- uj ido
+
