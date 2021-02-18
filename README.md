@@ -8,3 +8,5 @@ Ide jön az első fejezet tartalma:
 - akár felsorolást is
 - ez új
 - log time
+- lezár
+
