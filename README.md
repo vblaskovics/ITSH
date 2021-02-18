@@ -11,4 +11,5 @@ Ide jön az első fejezet tartalma:
 - lezár
 - resolve
 - uj ido
+- done
 
