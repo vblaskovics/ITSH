@@ -4,12 +4,5 @@
 
 Ide jön az első fejezet tartalma:
 
-- ide lehet írni dolgokat
-- akár felsorolást is
-- ez új
-- log time
-- lezár
-- resolve
-- uj ido
-- done
+
 
