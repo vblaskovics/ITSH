@@ -7,3 +7,4 @@ Ide jön az első fejezet tartalma:
 - test comment
 - időt is adunk hozzá 3
 
+- kész vagyok
