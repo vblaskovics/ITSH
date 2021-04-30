@@ -10,3 +10,6 @@ Ide jön az első fejezet tartalma:
 - kész vagyok
 
 ## 2 Második fejezet
+
+- példa sor 1
+- példa sor 2
